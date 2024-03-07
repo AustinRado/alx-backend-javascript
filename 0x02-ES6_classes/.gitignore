@@ -1,2 +1,5 @@
-node_module
+#dir
+node_modules
+
+#file
 package-lock.json
